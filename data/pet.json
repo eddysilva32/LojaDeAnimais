@@ -1,0 +1,18 @@
+{
+  "id": 4220,
+  "category": {
+    "id": 0,
+    "name": "Dog"
+  },
+  "name": "Espanca",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "Adoption"
+    }
+  ],
+  "status": "available"
+}
